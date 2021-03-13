@@ -12,7 +12,7 @@ I'm a {Web_Developer} in progress...
 - 🌐 technical and intermediate English
 - 🐘 Studying PHP
 - 📚 Studying Computer Science at CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCINIO
-- 🤘 Music and video-game 🎮
+- 🤘 Music and video game 🎮
 
 ### Skills
 

@@ -7,7 +7,7 @@
 
 ### About me
 
-I'm a {junior developer} in progress...
+I'm a junior developer in progress...
 
 - 🌐 technical and intermediate English
 - 📚 Studying Computer Science at CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCINIO

@@ -3,7 +3,7 @@
 </p>
 ---
 
-### About Me
+### *About Me*
 
 I'm a **Computer Science graduate** and **Information Security Analyst** with experience in fraud prevention, risk assessment, and data analysis.
 
@@ -15,7 +15,7 @@ I value clean code, good documentation, and continuous learning.
 
 ---
 
-### Tech Stack
+### *Tech Stack*
 
 <details>
 <summary>Click to expand</summary>
@@ -33,7 +33,7 @@ Basic vulnerability analysis, RESTful APIs, authentication, data validation
 
 ---
 
-### Current Focus
+### *Current Focus*
 
 - Building fullstack apps with Flask + React  
 - Exploring clean architecture and testing  
@@ -42,7 +42,7 @@ Basic vulnerability analysis, RESTful APIs, authentication, data validation
 
 ---
 
-### GitHub Stats
+### *GitHub Stats*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielMatozo&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,7 +51,7 @@ Basic vulnerability analysis, RESTful APIs, authentication, data validation
 
 ---
 
-### Outside the Code
+### *Outside the Code*
 
 I unwind by watching anime, reading manga, and listening to music — the perfect balance to fuel focus and creativity.
 

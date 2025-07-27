@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Gabriel+Matozo;Infosec+Analyst+%26+Fullstack+Dev+in+Progress;Python+%7C+Flask+%7C+React+%7C+Node.js&center=true&width=500&height=50">
 </p>
+
 ---
 
 ### *About Me*

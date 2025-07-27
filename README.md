@@ -1,35 +1,62 @@
-### Hi, I'm Gabriel Matozo!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GabrielMatozo)](https://github.com/GabrielMatozo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmatozo/)](https://www.linkedin.com/in/gabrielmatozo/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/matoz0)](https://twitter.com/matoz0)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/3141592653589793238462643G/)](https://www.facebook.com/3141592653589793238462643G/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Gabriel+Matozo;Infosec+Analyst+%26+Fullstack+Dev+in+Progress;Python+%7C+Flask+%7C+React+%7C+Node.js&center=true&width=500&height=50">
+</p>
+---
 
+### About Me
 
-### About me
+I'm a **Computer Science graduate** and **Information Security Analyst** with experience in fraud prevention, risk assessment, and data analysis.
 
-I'm a junior developer in progress...
+Currently deepening my skills as a **fullstack developer**, focused on building secure and scalable applications using:
+- 🐍 **Python** + **Flask** for backend  
+- ⚛️ **React** and **Node.js** for frontend and APIs
 
-- 🌐 technical and intermediate English
-- 📚 Studying Computer Science at CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCINIO
-- 💻 Studying JavaScript
-- 🤘 Music and video game 🎮
+I value clean code, good documentation, and continuous learning.
 
-### Skills
+---
 
-![C_image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python_image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java_image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP_image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML_image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS_image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JS_image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git_image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tech Stack
 
+<details>
+<summary>Click to expand</summary>
 
+**Languages**  
+Python, JavaScript, TypeScript, Java, PHP, HTML, CSS
 
+**Frameworks & Tools**  
+Flask, Node.js, React, Git, Linux, Postman, Jira, Confluence
 
+**Other**  
+Basic vulnerability analysis, RESTful APIs, authentication, data validation
 
+</details>
 
-### 📈 My GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmatozo&show_icons=true&hide_border=true&bg_color=000&title_color=fff&text_color=b6b6b6)
+---
 
+### Current Focus
+
+- Building fullstack apps with Flask + React  
+- Exploring clean architecture and testing  
+- Writing secure, maintainable code  
+- Deploying with Docker and cloud tools  
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMatozo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMatozo&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### Outside the Code
+
+I unwind by watching anime, reading manga, and listening to music — the perfect balance to fuel focus and creativity.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielMatozo&style=flat-square&color=blue" alt="Profile views" />
+</p>

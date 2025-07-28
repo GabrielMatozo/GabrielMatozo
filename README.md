@@ -34,6 +34,15 @@ Basic vulnerability analysis, RESTful APIs, authentication, data validation
 
 ---
 
+### *Current Focus*
+
+- Building fullstack apps with Flask + React  
+- Exploring clean architecture and testing  
+- Writing secure, maintainable code  
+- Deploying with Docker and cloud tools  
+
+---
+
 ### 📈 *GitHub Stats*
 
 <p align="center">
@@ -47,6 +56,16 @@ Basic vulnerability analysis, RESTful APIs, authentication, data validation
 ### *Outside the Code*
 
 I unwind by watching anime, reading manga, and listening to music — the perfect balance to fuel focus and creativity.
+
+---
+
+### 📬 *Contact Me*
+
+<p align="center">
+  <a href="mailto:contato.gmatozo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-contato.gmatozo@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+</p>
 
 ---
 

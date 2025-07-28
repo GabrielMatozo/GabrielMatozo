@@ -34,20 +34,12 @@ Basic vulnerability analysis, RESTful APIs, authentication, data validation
 
 ---
 
-### *Current Focus*
-
-- Building fullstack apps with Flask + React  
-- Exploring clean architecture and testing  
-- Writing secure, maintainable code  
-- Deploying with Docker and cloud tools  
-
----
-
-### *GitHub Stats*
+### 📈 *GitHub Stats*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMatozo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMatozo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielMatozo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMatozo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

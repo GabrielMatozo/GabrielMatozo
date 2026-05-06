@@ -1,49 +1,50 @@
 <h2 align="center">Gabriel Matozo</h2>
 
 <p align="center">
-Information Security Professional & Backend Developer • Python • SQL
+Cybersecurity Risk Analyst • Fraud Prevention • Python • SQL
 </p>
 
 <p align="center">
-Building secure, test-driven backend solutions and mitigating operational risks.
+Automating security processes, investigating fraud patterns, and mitigating operational risks.
 </p>
 
 ---
 
 ## About
 
-I am an Information Security professional and currently a Backend Developer at Topaz, with 3 years of experience dedicated to fraud prevention and operational risk analysis in the financial sector.
+I am a Cybersecurity professional currently working as a Backend Developer focused on Security Automation at Topaz, with 3 years of experience dedicated to financial fraud prevention and operational risk analysis.
 
-My work combines threat investigation with software engineering. I have experience in monitoring and investigating anomalous behavior in financial systems. Additionally, I use SQL for data cross-referencing, log analysis, and identifying fraud patterns, as well as Python for scripts that support investigation workflows and report generation.
+My work combines threat investigation intelligence with software engineering. I specialize in identifying anomalous behavior and illicit patterns using data cross-referencing (SQL) and financial systems log analysis. To scale and speed up defense operations, I apply my engineering knowledge (Python, REST APIs with Flask/FastAPI) to create scripts, automations, and internal investigation tools.
 
-As a developer, I build and maintain REST APIs and backend services (Flask/FastAPI) that directly support security operations. I believe in applying coding best practices, such as Clean Architecture, SOLID principles, and automated testing (TDD and BDD), to deliver stable systems. My primary goal is to work in fraud prevention and mitigate operational risks, collaborating directly with technical and business teams.
+My primary goal is to ensure agility in incident response and support business areas with data intelligence, mitigating risks and focusing on technical compliance with security requirements.
 
 ---
 
 ## What I Do
 
-- Develop and maintain secure backend APIs (Flask/FastAPI) focused on maintainability
-- Create Python scripts to support investigation workflows and report generation
-- Perform log analysis, cross-reference data with SQL, and identify fraud patterns
-- Collaborate with engineering teams using TDD, BDD, and Clean Architecture to improve system reliability
-- Support incident response, vulnerability analysis, and risk mitigation
+- Perform log analysis, cross-reference massive data with SQL, and identify fraud patterns
+- Create Python scripts and automations to optimize investigation workflows and reduce incident response time
+- Develop and maintain internal backend APIs (Flask/FastAPI) that directly support the Cyber Security team's operations
+- Ensure the quality and resilience of security automations using TDD, BDD, and Clean Architecture
+- Support risk mitigation and technical compliance in financial environments
 
 ---
 
 ## Technical Focus
 
-**Backend Engineering & Quality**
+**Fraud & Security Analytics**
+- Incident Investigation & Log Analysis
+- Fraud Pattern Identification & Data Crossing
+- Technical Compliance (LGPD/BACEN)
+- SQL (Relational Databases)
+
+**Security Engineering & Automation**
 - Python (Flask / FastAPI)
 - REST APIs
 - Pytest, TDD & BDD (Gherkin)
 - Clean Architecture & SOLID principles
 
-**Fraud & Security Analytics**
-- Incident Investigation & Log Analysis
-- Fraud Pattern Identification & Data Crossing
-- SQL (Relational Databases)
-
 **Platform & Delivery**
 - Docker & Linux
 - Git
-- Secure coding practices
+- Postman, Jira & Confluence
